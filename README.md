@@ -29,7 +29,7 @@
 
   <!-- Personal Website -->
   <a href="https://mihir-vlsi-verse.lovable.app" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Website - Mihir Gajjar" height="30" width="40" />
+    <img align="center" src="https://i.postimg.cc/PrzCyt5K/Business-797.jpg" alt="Web" height="30" width="40" />
   </a>
 </p>
 
