@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mihir suthar</h1>
-<h3 align="center">A passionate vlsi verification engineer</h3>
+<h3 align="center">A passionate vlsi RTL and verification, embedded systems and IOT engineer</h3>
 
 
 - 🔭 I’m currently working on **ETL verification, Embedded systems, IOT**
