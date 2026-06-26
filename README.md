@@ -7,31 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **FIFO verification**
+- 🔭 I’m currently working on **ETL verification, Embedded systems, IOT**
 
-- 🌱 I’m currently learning **Verilog , UVM**
+- 🌱 I’m currently learning **Verilog , Embedded C, C++**
 
-- 🤝 I’m looking for help with **RTL projects**
+- 🤝 I’m looking for help with **RTL,IOT,FPGA,EMBEDDED projects**
 
 - 📫 How to reach me **mihirsuthar9978@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/definatelymihir/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mihir Gajjar" height="30" width="40" />
-  </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@mihirgajjarindia" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - Mihir Gajjar India" height="30" width="40" />
-  </a>
-
-  <!-- Personal Website -->
-  <a href="https://mihir-vlsi-verse.lovable.app" target="_blank">
-    <img align="center" src="https://i.postimg.cc/PrzCyt5K/Business-797.jpg" alt="Web" height="30" width="40" />
-  </a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
